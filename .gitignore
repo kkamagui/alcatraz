@@ -1,0 +1,12 @@
+*.log
+*.o
+*.cmd
+*.ko
+*.symvers
+*.mod.c
+*.mod
+*.order
+.DS_Store
+.tmp_versions/
+.deps/
+.depend/
